@@ -9,3 +9,4 @@ CREATE TABLE IF NOT EXISTS users (
 
 INSERT INTO users (username, name) VALUES ("john.smith", "John");
 INSERT INTO users (username, name) VALUES ("sarah.connor", "Sarah");
+INSERT INTO users (username, name) VALUES ("new.user", NULL);
