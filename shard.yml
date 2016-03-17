@@ -1,0 +1,13 @@
+name: kemal_mysql_issue_2
+version: 0.1.0
+
+authors:
+  - Oleksii Fedorov <waterlink000@gmail.com>
+
+license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+  kemal-mysql:
+    github: sdogruyol/kemal-mysql
